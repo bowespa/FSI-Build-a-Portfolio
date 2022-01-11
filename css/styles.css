@@ -1,5 +1,6 @@
 body {
-    background-color: blueviolet;
+    background: url(/Users/patrick/Desktop/FSI-Build-a-Portfolio/images/photo-1557682250-33bd709cbe85.jpg) no-repeat center fixed ;
+    background-size: cover;
 }
 
 .name {
