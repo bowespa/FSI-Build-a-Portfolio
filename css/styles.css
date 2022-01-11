@@ -1,6 +1,5 @@
 body {
-    background: url(/Users/patrick/Desktop/FSI-Build-a-Portfolio/images/photo-1557682250-33bd709cbe85.jpg);
-    background-size: cover;
+    background-image: linear-gradient(to bottom right,#574bcd,#2999ad,#41e975);
 }
 
 .name {
@@ -24,7 +23,7 @@ body {
     height: auto;
     border-style: solid;
     border-width: 10px;
-    border-color: rgb(185, 63, 255);
+    border-color: lightseagreen;
     border-radius: 25px;
 }
 
