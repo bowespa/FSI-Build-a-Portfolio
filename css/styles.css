@@ -1,0 +1,67 @@
+body {
+    background: url(/Users/patrick/Desktop/FSI-Build-a-Portfolio/images/photo-1557682250-33bd709cbe85.jpg) no-repeat center fixed ;
+    background-size: cover;
+}
+
+.name {
+    text-align: center;
+    color: white;
+    font-size: 40px;
+    text-shadow: 2px 2px 10px black;
+}
+
+.career {
+    text-align: center;
+    color: white;
+    font-family: fantasy;
+}
+
+.photo {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 100%;
+    height: auto;
+    border-style: solid;
+    border-width: 10px;
+    border-color: rgb(185, 63, 255);
+    border-radius: 25px;
+}
+
+.bio {
+    text-align: center;
+    color: white;
+    font-size: 23px;
+    text-shadow: 2px 2px 10px black;
+}
+
+.paragraph {
+    color: white;
+    margin-left: auto;
+    margin-right: auto;
+    width: 31em;
+}
+
+h3 {
+    text-align: center;
+    color: white;
+    font-size: 23px;
+    text-shadow: 2px 2px 10px black;
+}
+
+
+p {
+    text-align: center;
+    color: white;
+}
+
+.container {
+    text-align: center;
+}
+
+.menu {
+    margin-left: auto;
+    margin-right: auto;
+    width: 8em;
+    color: white;
+}
